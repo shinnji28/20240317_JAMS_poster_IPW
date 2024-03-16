@@ -1,7 +1,7 @@
 #------------------------------------------------------------
 #This R script was presented as a poster at the 76th Annual Meeting of the Japanese Association for Mathematical Sociology on March 17, 2024. 
 #The title was "Reevaluation of the 'Under-Enrollment' Problem in Private Universities: Focusing on Time-Dependent Treatments and Confounding Factors."
-#If you need a translation of the following description, which is in Japanese, please feel free to contact us, and we will provide you with an English translation.
+#If you need a translation of the following description, which is in Japanese, please feel free to contact me, and I will provide you with an English translation.
 #------------------------------------------------------------
 
 #------------------------------------------------------------
